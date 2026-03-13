@@ -66,7 +66,7 @@ a.replace("wait","work")
 b="wait wait until you succeed"
 b.replace("wait","work")
 'work work until you succeed'
-b.replace("woit","work",1)     #here if there are two same words if give me index it only replace the 1st index word
+b.replace("woit","work",1)     #here if there are two same words if we give word index value it only replace the 1st index word
 'wait wait until you succeed'
 b.replace("wait","work",1)
 'work wait until you succeed'
@@ -177,3 +177,4 @@ Likhith M
 ...        
 >>> a=3
 ...        
+
