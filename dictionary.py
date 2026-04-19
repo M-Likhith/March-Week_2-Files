@@ -1,19 +1,19 @@
 Python 3.14.1 (tags/v3.14.1:57e0d17, Dec  2 2025, 14:05:07) [MSC v.1944 64 bit (AMD64)] on win32
 Enter "help" below or click "Help" above for more information.
 #dictionary (dict)
-a={"name":"pooja","city":"vja"}
+a={"name":"likhith","city":"vja"}
 print(a)
-{'name': 'pooja', 'city': 'vja'}
+{'name': 'likhith', 'city': 'vja'}
 type(a)
 <class 'dict'>
 a["name"]
-'pooja'
+'likhith'
 a.keys()
 dict_keys(['name', 'city'])
 a.values()
-dict_values(['pooja', 'vja'])
+dict_values(['likhith', 'vja'])
 a.items()
-dict_items([('name', 'pooja'), ('city', 'vja')])
+dict_items([('name', 'likhith'), ('city', 'vja')])
 
 #update
 a={"year":2026,"month":3}
